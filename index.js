@@ -105,7 +105,7 @@ app.get("/ManageProducts", async (req, res) => {
   }
 });
 
-
+//start of the index.js
   console.log("MongoDB Ready");
 }
 
